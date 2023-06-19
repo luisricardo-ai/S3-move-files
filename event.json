@@ -1,0 +1,7 @@
+{
+    "bucket": "prd-lakehouse-raw",
+    "prefix": "your/path/to/the/folders",
+    "destination_folder": "2023-06-14/",
+    "folder_origin": ["FOLDER_1", "FOLDER_2", "FOLDER_3"],
+    "partial_object_name": "LOAD"
+}
